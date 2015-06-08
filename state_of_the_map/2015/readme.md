@@ -9,13 +9,14 @@ Learn more about [OpenStreetMap](http://www.openstreetmap.org/about).
 <iframe width="425" height="200" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=-77.32177734375%2C37.57070524233116%2C-70.59814453125%2C43.77902662160831&amp;layer=mapnik&amp;marker=40.74725696280421%2C-73.95996093749999" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=40.747&amp;mlon=-73.960#map=7/40.747/-73.960">View Larger Map</a></small>
 
 ![un](img/IMG_0946.JPG)
+*The United Nations Building*
 
 I went to SOTMUS 2014 in Washington, D.C. and thought the sessions and community were great so was looking forward to attending the event in 2015. The cost was pretty cheap as far as conferences were concerned and I live in New York City so I ended up bypassing expensing the event through work and paid the $90 early bird registration fee out of my own pocket. 
 
 * Cost - I paid $90 for the early bird registration and live in NY. 
 * [Scholarship Options](http://stateofthemap.us/scholarships/)
 
-I skipped the Friday night social event but heard it was a great time. One quick 
+I skipped the Friday night social event but heard it was a great time. 
 
 ![sotmus group photo](img/IMG_0944.JPG)
 *SOTMUS 2015 group photo*
