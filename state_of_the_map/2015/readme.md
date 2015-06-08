@@ -6,24 +6,28 @@ This past weekend ~850 people attended the [State of the Map US](http://stateoft
 
 Learn more about [OpenStreetMap](http://www.openstreetmap.org/about).
 
-<iframe width="425" height="200" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=-77.32177734375%2C37.57070524233116%2C-70.59814453125%2C43.77902662160831&amp;layer=mapnik&amp;marker=40.74725696280421%2C-73.95996093749999" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=40.747&amp;mlon=-73.960#map=7/40.747/-73.960">View Larger Map</a></small>
+<iframe width="100%" height="200" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=-77.32177734375%2C37.57070524233116%2C-70.59814453125%2C43.77902662160831&amp;layer=mapnik&amp;marker=40.74725696280421%2C-73.95996093749999" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=40.747&amp;mlon=-73.960#map=7/40.747/-73.960">View Larger Map</a></small>
 
 ![un](img/IMG_0946.JPG)
 *The United Nations Building*
 
-I went to SOTMUS 2014 in Washington, D.C. and thought the sessions and community were great so was looking forward to attending the event in 2015. The cost was pretty cheap as far as conferences were concerned and I live in New York City so I ended up bypassing expensing the event through work and paid the $90 early bird registration fee out of my own pocket. 
+I went to SOTMUS 2014 in Washington, D.C. and thought the sessions and community were great. So I was looking forward to attending the event again in 2015. The cost was pretty cheap as far as conferences were concerned and I live in New York City so I ended up bypassing expensing the event through work and paid the $90 early bird registration fee.
 
 * Cost - I paid $90 for the early bird registration and live in NY. 
 * [Scholarship Options](http://stateofthemap.us/scholarships/)
-
-I skipped the Friday night social event but heard it was a great time. 
 
 ![sotmus group photo](img/IMG_0944.JPG)
 *SOTMUS 2015 group photo*
 
 
+![stickers](img/IMG_0960.JPG)
+*SOTMUS 2015 program and stickers*
 
+![t-shirt](img/IMG_0959.JPG)
+*SOTMUS 2015 t-shirt*
 
+![rose-garden](img/IMG_0956.JPG)
+*UN rose garden*
 
 
 * Selfie from space
@@ -52,7 +56,7 @@ One thing that I've noticed with the OSM community and State of the Map in gener
 I think there is very healthy debate about companies and individuals who use OpenStreetMap data to help build and create their business. And I think Randy Meech's talk **[O.S.M.B.A. The history and future of companies in OpenStreetMap](http://stateofthemap.us/osmba-the-history-and-future-of-companies-in-openstreetmap/)** touched on some of that great debate. However, as a community I think we may find that **bashing** companies and software doesn't help. If the community has problem with a software company maybe the energy spent bashing that company or software would be better placed to developing better open source alternatives. 
 
 ####Geocoding 
-Geocoding is the next big component to work on in the FOSS4G/Open Data stack. While I missed the **State of the Geocoder** (side note: I think slightly staggering the Sunday talks might be useful next year as Saturday is such a busy day that some folks, including me, find it tough to get to the venue early on a Sunday) talk I was able to catch [@IanDee](https://twitter.com/iandees)'s **OpenAddresses** talk. 
+Geocoding is the next big component to work on in the FOSS4G/Open Data stack. While I missed the **[State of the Geocoder](______)** (side note: Saturday is such a busy day that some folks, including me, find it tough to get to the venue early on Sunday) talk I was able to catch [@IanDee](https://twitter.com/iandees)'s **[OpenAddresses](_________)** talk. 
 
 Why can't we develop open geocoding methods for desktop and possibly even the web? With points, the task requires some text-matching and some parsing problems, but for the most part has been conceptually completed by **Esri**. Esri's geocoding systems are properietary but it wouldn't be difficult to develop the open source community's ideas on address matching with Esri's system serving as a template. 
 
