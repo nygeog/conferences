@@ -30,6 +30,9 @@ I went to SOTMUS 2014 in Washington, D.C. and thought the sessions and community
 *UN rose garden*
 
 
+[Megan Smith ](http://seen.co/event/state-of-the-map-us--2015-5454/highlight/485499)
+
+
 * Selfie from space
 
 * The Humanitarian
