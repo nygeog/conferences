@@ -1,4 +1,5 @@
 #PyData Seattle
+![pydata](http://seattle.pydata.org/static/images/PyDataSeattleLogo.svg)
 
 ##[Schedule](http://seattle.pydata.org/schedule/)
 
